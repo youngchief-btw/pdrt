@@ -1,9 +1,13 @@
 # PublicDomainRepoTemplate
 
-Template for public-domain repositories
+Template for public-domain repositories.
 
-Feel free to use whatever is here for whatever you want, take a look at LICENSE
+Feel free to use whatever is here for whatever you want, take a look at UNLICENSE.
 
-If you decide to make a pull request, you agree to the CLA which is located at WAIVER
+If you decide to make a pull request, you agree to the WAIVER file.
 
-Please sign it with `gpg --no-version --armor --sign WAIVER >> AUTHORS; echo '\n' >> AUTHORS`
+Please cryptographically sign WAIVER file and add your name and email to AUTHORS file.
+
+First time here? `$ bash WAIVER_AND_AUTHORS.bash`
+
+Existing contributor? `$ bash WAIVER.sh`

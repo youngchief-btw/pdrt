@@ -1,4 +1,16 @@
-# Copyright waiver for BLANK
+# What does this affect?
+
+It affects only... and...
+
+# What is the description of the pull request?
+
+This pull request introduces..
+
+# Does it resolve an issue? If so, leave # then the issue number.
+
+It fixes #0 by introducing...
+
+# Copyright waiver
 
 I dedicate any and all copyright interest in this software to the
 public domain. I make this dedication for the benefit of the public at
@@ -15,3 +27,13 @@ To the best of my knowledge and belief, no individual, business,
 organization, government, or other entity has any copyright interest
 in my contributions, and I affirm that I will not make contributions
 that are otherwise encumbered.
+
+# Please cryptographically sign WAIVER file and add your name and email to AUTHORS file
+
+First time here? `$ bash WAIVER_AND_AUTHORS.bash`
+
+Existing contributor? `$ bash WAIVER.sh`
+
+# Copy and paste your cryptographic signature below
+
+Remove this line and paste here.
