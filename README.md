@@ -1,6 +1,6 @@
-# PublicDomainRepoTemplate
+# Public Domain Repo Template
 
-Template for public-domain repositories.
+Quad-licensed under various public domain declarations.
 
 Feel free to use whatever is here for whatever you want, take a look at UNLICENSE.
 
